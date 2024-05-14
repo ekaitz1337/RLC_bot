@@ -47,7 +47,7 @@ def enviar_aviso_lanzamiento(context: CallbackContext):
 
 # Configuración del bot
 TOKEN = "7175013590:AAEJVSIawUsewRPGhoLyqetaV8cPAfxh7qg"  # Reemplaza "TU_TOKEN_AQUÍ" con el token de tu bot
-CHAT_ID = "TU_CHAT_ID_AQUÍ"  # Reemplaza "TU_CHAT_ID_AQUÍ" con el ID del grupo donde quieres enviar los mensajes
+CHAT_ID = "4265548733"  # Reemplaza "TU_CHAT_ID_AQUÍ" con el ID del grupo donde quieres enviar los mensajes
 
 # Crear un objeto Updater y pasarle el token del bot
 updater = Updater(token=TOKEN, use_context=True)
